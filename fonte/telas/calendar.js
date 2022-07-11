@@ -641,7 +641,7 @@ const Calendario = ({ route }) => {
 
               }}>
 
-                Nenhum compromisso este dia
+                Nenhum compromisso este dias
               </Text>
 
             </View>
